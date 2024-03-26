@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.badge-type {
+    &-grass {
+      background-color: #a8ff98;
+    }
+    &-poison {
+      background-color: #d6a2e4;
+    }
+    &-normal {
+      background-color: #dcdcdc;
+    }
+    &-fire {
+      background-color: #ffb971;
+    }
+    &-water {
+      background-color: #8cc4e2;
+    }
+    &-electric {
+      background-color: #ffe662;
+    }
+    &-ice {
+      background-color: #8cf5e4;
+    }
+    &-electric {
+      background-color: #ffe662;
+    }
+    &-fighting {
+      background-color: #da7589;
+    }
+    &-ground {
+      background-color: #e69a74;
+    }
+    &-flying {
+      background-color: #bbc9e4;
+    }
+    &-psychic {
+      background-color: #ffa5da;
+    }
+    &-bug {
+      background-color: #bae05f;
+    }
+    &-rock {
+      background-color: #c9bb8a;
+    }
+    &-ghost {
+      background-color: #8291e0;
+    }
+    &-dark {
+      background-color: #8e8c94;
+    }
+    &-dragon {
+      background-color: #88a2e8;
+    }
+    &-steel {
+      background-color: #9fb8b9;
+    }
+    &-fairy {
+      background-color: #fdb9e9;
+    }
+  }
