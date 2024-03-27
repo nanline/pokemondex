@@ -70,10 +70,10 @@ const DetailPage = () => {
             </div>
             <div className="p-5 bg-[#2c2b47] rounded-[25px] mt-[50px]">
               <div className="flex justify-between">
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-300 capitalize">
+                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-400 capitalize">
                   {pokemon.data.name}
                 </h5>
-                <h6 className="mt-2 mr-4 text-xl tracking-tight text-gray-300">
+                <h6 className="mt-2 mr-4 text-xl tracking-tight text-gray-400">
                   # {pokemon.data.id}
                 </h6>
               </div>
